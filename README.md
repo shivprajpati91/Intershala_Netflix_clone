@@ -1,16 +1,4 @@
-# netflixclone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (381)](https://github.com/user-attachments/assets/0a3c35ac-ec1e-4a71-b8db-0598436598b4)
+![Screenshot (380)](https://github.com/user-attachments/assets/e9b65fdb-7601-4c29-8971-b97ba5933f8b)
+![Screenshot (379)](https://github.com/user-attachments/assets/8e38ee72-c956-4bf0-9ff1-012255fbd524)
+![Screenshot (377)](https://github.com/user-attachments/assets/a12a9705-2c1a-4456-8ab9-45f68e3d7b23)
